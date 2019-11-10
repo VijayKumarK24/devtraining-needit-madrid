@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Create NeedIt Record">7eeb11152f0900105588ddda2799b640</button>
+        <description/>
+        <field_name/>
+        <label>Create New NeedIt</label>
+        <location>top</location>
+        <name>Create New NeedIt</name>
+        <order>4</order>
+        <parent>659737ec2f8d00105588ddda2799b610</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-10 08:33:18</sys_created_on>
+        <sys_id>44a4e5592f0900105588ddda2799b6ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_44a4e5592f0900105588ddda2799b6ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-10 08:33:18</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=44a4e5592f0900105588ddda2799b6ff"/>
+</record_update>
